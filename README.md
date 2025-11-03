@@ -11,10 +11,10 @@ It was prepared for predictive modeling and time-series forecasting related to h
 |----------------------|--------------------------------------|
 | **Total Rows**       | 47,739                               |
 | **Total Columns**    | 31                                   |
-| **Time Span**        | 2015-09-30 to 2025-09-30             |
+| **Time Span**        | 2017 to 2025                         |
 | **Granularity**      | Daily (per unit per facility)        |
 | **Format**           | CSV (`unit_daily_aggregated.csv`)    |
-| **File Size**        | ~6 MB (approx)                       |
+| **File Size**        | ~7.5 MB (approx)                     |
 
 ---
 
